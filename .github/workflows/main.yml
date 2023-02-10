@@ -1,4 +1,3 @@
-TELEGRAM_TOKEN_BOT1
 name: Python Telegram Bot CI/CD
 
 on:
