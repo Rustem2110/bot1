@@ -23,6 +23,10 @@ jobs:
     - name: Install dependencies
       run: |
          pip install pyTelegramBotAPI
+         
+    - name: Run tests
+      run: |
+        python -m unittest discove
 
 
     - name: Deploy to production
