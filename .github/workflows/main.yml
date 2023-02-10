@@ -26,7 +26,7 @@ jobs:
          
     - name: Run tests
       run: |
-        python -m unittest discove
+        python -m unittest discover
 
 
     - name: Deploy to production
